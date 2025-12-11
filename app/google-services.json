@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1047280181658",
+    "firebase_url": "https://pmob-144-reynaldi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmob-144-reynaldi",
+    "storage_bucket": "pmob-144-reynaldi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047280181658:android:5886930f08be83a7c21a23",
+        "android_client_info": {
+          "package_name": "com.nyeni.pertemuan8_144_reynaldi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91rcgHWDD0KB6KYsPyRKN_7GjMFG7pvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
